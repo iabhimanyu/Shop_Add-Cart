@@ -30,3 +30,5 @@ then
 ```
 npm install --save-dev  --unsafe-perm node-sass
 ```
+![tem list](/list.png)
+![added to cart](/added to cart.png)
